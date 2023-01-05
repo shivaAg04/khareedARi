@@ -4,7 +4,7 @@
 
   Built this for educational purposes only.
 
-  <a href="https://karasi.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://yashveersingh1062.github.io/Futurefurniture/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
