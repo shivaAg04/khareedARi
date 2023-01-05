@@ -8,4 +8,4 @@ FASHION - AR technology can also be used to enhance fashion shows and other even
 
 ## Demo
 
-![](one.jpg)
+![](one.png)
